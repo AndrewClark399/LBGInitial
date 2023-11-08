@@ -3,3 +3,7 @@
 /logs/
 
 #Do not alter the following files
+
+.*
+
+
