@@ -30,7 +30,6 @@ jobs:
         run: Testing.....
 
       # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          ln
-          nano 123
+      - name: Run a one-line script
+        run: ln
+          
