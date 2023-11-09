@@ -1,2 +1,2 @@
 1. Learn about git
-2. upload to github
+2. download github
